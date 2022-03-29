@@ -1,4 +1,2 @@
-[ubuntu18]
-172.16.134.153 ansible_user=darktangent
 [docker]
 172.17.0.2 ansible_ssh_pass=bhulgaya ansible_ssh_user=temp
